@@ -1,6 +1,9 @@
 show a loading spinner when async work is being done in the background
+
 when you write in rxjs — you end up with a declaritive stream of meaty rxjs operators.
+
 Sometimes it can flow like an english sentance
+
 We have our requirement in english - then lets try to problem solve by speaking in these sentances
 
 ---
