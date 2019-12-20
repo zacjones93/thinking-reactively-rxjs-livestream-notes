@@ -30,7 +30,8 @@ RxJS is really good at certain problems - makes it easy to read and extensible -
 
 RxJS needs upfront thought on the design of the code to make it becom as extensible and beautiful as possible
 
-The notes in this repository are broken down into 3 sections:   - Requirements and problem solving
+The notes in this repository are broken down into 3 sections:   
+- Requirements and problem solving
 - Notes taken during the livestream
 - Viewer questions
 
@@ -47,7 +48,7 @@ The notes in this repository are broken down into 3 sections:   - Requirements a
 Intro to Reactive Programming
 ](https://egghead.io/courses/introduction-to-reactive-programming)
 
-[<p><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/034/square_480/EGH_IntroReactive_sq.png" width="100"></p>
+[<p ><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/034/square_480/EGH_IntroReactive_sq.png" width="100"></p>
 RxJS Operators In Depth](https://egghead.io/courses/rxjs-beyond-the-basics-operators-in-depth)
 
 
