@@ -1,5 +1,5 @@
 <h1 align="center">Thinking Reactively with RxJS</h1>
-<h2 align="right">Rares Matei</h2>
+<h2 align="center">Rares Matei</h2>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/375/thumb/rxlogo.png" width="200"></p>
 
