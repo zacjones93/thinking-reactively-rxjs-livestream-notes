@@ -3,9 +3,9 @@
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/375/thumb/rxlogo.png" width="200"></p>
 
-Some question(s) are outlined in the essential questions section of the README for you to think about as you take the workshop. There is no 'definitive' answer to these questions but as you learn, you'll develop a more contextualized answer.
+Some question(s) are outlined in the essential questions section of the README for you to think about as you learn this content. There is no 'definitive' answer to these questions but as you learn, you'll develop a more contextualized answer.
 
-Right below is the intended outcomes of the course, these are the skills and knowledge you will learn that you can take to any application to use.
+Right below is the intended outcomes of the material, these are the skills and knowledge you will learn that you can take to any application to use.
 
 ## Essential Questions
     What problems are best solved reactively?
