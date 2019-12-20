@@ -31,9 +31,9 @@ RxJS is really good at certain problems - makes it easy to read and extensible -
 RxJS needs upfront thought on the design of the code to make it becom as extensible and beautiful as possible
 
 The notes in this repository are broken down into 3 sections:   
-- Requirements and problem solving
-- Notes taken during the livestream
-- Viewer questions
+- [Requirements and problem solving](https://github.com/zacjones93/thinking-reactively-rxjs-livestream-notes/blob/master/break-requirements-down.md)
+- [Notes taken during the livestream](https://github.com/zacjones93/thinking-reactively-rxjs-livestream-notes/blob/master/notes.md)
+- [Viewer questions](https://github.com/zacjones93/thinking-reactively-rxjs-livestream-notes/blob/master/questions.md)
 
 ---
 
