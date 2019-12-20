@@ -4,7 +4,7 @@
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/375/thumb/rxlogo.png" width="200"></p>
 
 
-## 01. Overview
+## Overview
 
 RxJS is really good at certain problems involving asynchony, especially when multiple 'events' are being called and reference. The consitent tool kit that you have at your disposal makes it easy to read and extensible - harder to mess up.
 
